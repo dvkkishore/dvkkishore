@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with ML and AI
 
-- 🪄 I fascinated about Latest Technologies and Photography
+- 🪄 I'm fascinated about Latest Technologies and Photography
 
 - 📫 How to reach me dannanavenkatakishore@gmail.com
 
