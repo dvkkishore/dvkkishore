@@ -1,11 +1,13 @@
+<img src="https://github.com/dvkkishore/dvkkishore/blob/main/banner.png?raw=true">
 <h1 align="center">Hi 👋, I'm Venkata Kishore</h1>
 <h3 align="center">ML/AI Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvkkishore&label=Profile%20views&color=0e75b6&style=flat" alt="dvkkishore" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvkkishore" alt="dvkkishore" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dannanavkishore" target="blank"><img src="https://img.shields.io/twitter/follow/dannanavkishore?logo=twitter&style=for-the-badge" alt="dannanavkishore" /></a> </p>
+
+<img align="right" src="https://media4.giphy.com/media/VekcnHOwOI5So/giphy.gif" width=25% >
+
 
 - 🔭 I’m currently working on **Frontend Development**
 
@@ -83,8 +85,8 @@
   </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore" /></p>
+<p><img align="left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dvkkishore&show_icons=true&locale=en" alt="dvkkishore" /></p>
+<p><img align="center" width=30% src="https://github-readme-stats.vercel.app/api?username=dvkkishore&show_icons=true&locale=en" alt="dvkkishore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvkkishore&" alt="dvkkishore" /></p>
+<p><img align="right" width=30% src="https://github-readme-streak-stats.herokuapp.com/?user=dvkkishore&" alt="dvkkishore" /></p>
