@@ -10,19 +10,19 @@
 
 <h2 align="left">👨‍💻 About me:</h3>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on Frontend Development
 
-- 🌱 I’m currently learning **Backend Development and Data Science**
+- 🌱 I’m currently learning Backend Development and Data Science
 
-- 👯 I’m looking to collaborate on **Blockchain networking**
+- 👯 I’m looking to collaborate on Blockchain networking
 
-- 🤝 I’m looking for help with **ML and AI**
+- 🤝 I’m looking for help with ML and AI
 
-- 🪄 I fascinated about **Latest Technologies and Photography**
+- 🪄 I fascinated about Latest Technologies and Photography
 
-- 📫 How to reach me **dannanavenkatakishore@gmail.com**
+- 📫 How to reach me dannanavenkatakishore@gmail.com
 
-- ⚡ Fun fact **I am lazy 🦥**
+- ⚡ Fun fact I am lazy 🦥
  </br>
 <h2 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -72,7 +72,7 @@
  </p>
  
  <p align="left"><p>Software:</p>
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&emsp; 
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -87,8 +87,9 @@
  </p>
 
 </br>
-<p><img align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore" /></p></br>
+<p>
+ <img align="left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore">
 
-<p><img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=dvkkishore&show_icons=true&locale=en" alt="dvkkishore" /></p>
-</br>
-<p><img align="center" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=dvkkishore&" alt="dvkkishore" /></p>
+<img align="center" width=30% src="https://github-readme-stats.vercel.app/api?username=dvkkishore&show_icons=true&locale=en" alt="dvkkishore">
+
+<img align="right" width=30% src="https://github-readme-streak-stats.herokuapp.com/?user=dvkkishore&" alt="dvkkishore"></p>
