@@ -72,7 +72,7 @@
  </p>
  
  <p align="left"><p>Software:</p>
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&emsp; 
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
@@ -87,9 +87,10 @@
  </p>
 
 </br>
-<p>
- <img align="left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore">
+<div>
+ <img width=33% src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore">
 
-<img align="center" width=30% src="https://github-readme-stats.vercel.app/api?username=dvkkishore&show_icons=true&locale=en" alt="dvkkishore">
+<img width=33% src="https://github-readme-stats.vercel.app/api?username=dvkkishore&show_icons=true&locale=en" alt="dvkkishore">
 
-<img align="right" width=30% src="https://github-readme-streak-stats.herokuapp.com/?user=dvkkishore&" alt="dvkkishore"></p>
+<img width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=dvkkishore&" alt="dvkkishore">
+</div>
