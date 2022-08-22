@@ -69,10 +69,14 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&emsp; 
  </a>
+ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+ </a>
  </p>
  
  <p align="left"><p>Frameworks:</p>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>&emsp; </a>
+  <a href="https://semantic-ui.com/" target="_blank" rel="noreferrer"> <img src="https://semantic-ui.com/images/logo.png" alt="semantic ui" width="40" height="40"/> </a>
  </p>
  
  <p align="left"><p>Software:</p>
