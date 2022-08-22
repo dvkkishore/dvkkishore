@@ -71,6 +71,10 @@
  </a>
  </p>
  
+ <p align="left"><p>Frameworks:</p>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+ </p>
+ 
  <p align="left"><p>Software:</p>
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&emsp; 
