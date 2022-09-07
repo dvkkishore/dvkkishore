@@ -97,7 +97,7 @@
 
 </br>
 <div>
- <img width=28% src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore">
+ <img width=26% src="https://github-readme-stats.vercel.app/api/top-langs?username=dvkkishore&show_icons=true&locale=en&layout=compact" alt="dvkkishore">
 
 <img width=33% src="https://github-readme-stats.vercel.app/api?username=dvkkishore&show_icons=true&locale=en" alt="dvkkishore">
 
