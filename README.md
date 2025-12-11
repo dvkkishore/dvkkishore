@@ -1,4 +1,3 @@
-<img src="https://github.com/dvkkishore/dvkkishore/blob/main/Untitled-1.jpg?raw=true">
 <h1 align="center">Hi 👋, I'm Venkata Kishore</h1>
 <h3 align="center">ML/AI Aspirant</h3>
 
