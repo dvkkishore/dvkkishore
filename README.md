@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/dannanavkishore" target="blank"><img src="https://img.shields.io/twitter/follow/dannanavkishore?logo=twitter&style=for-the-badge" alt="dannanavkishore" /></a> </p>
 
-<img align="right" src="https://media4.giphy.com/media/VekcnHOwOI5So/giphy.gif" width=25% >
-
 <h2 align="left">👨‍💻 About me:</h3>
 
 - 🔭 I’m currently working on Frontend Development
